@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img1.jpg</file>
+        <file>peakpx (2).jpg</file>
+    </qresource>
+</RCC>
